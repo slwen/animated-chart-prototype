@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-ipad-pro-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-ipad-pro-space-gray": "^1.0.0",
+		"@framer/framer.device-skin-apple-macbook": "^1.0.0",
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "810eae60-77c8-43e8-a000-78cd92bb18ad"
+	},
+	"author": "Sam Enoka",
+	"dependencies": {
+		"lodash": "^4.17.11"
+	}
+}
